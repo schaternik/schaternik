@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 9 times)\n2. commit (used 3 times)\n3. setup (used 3 times)\n4. initial (used 2 times)\n5. update (used 2 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 9 times)\n2. commit (used 3 times)\n3. update (used 3 times)\n4. setup (used 3 times)\n5. initial (used 2 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -45,7 +45,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/schaternik/adventofcode/commit/0ad229e420a79b30234ff4d70181b6a6e1278a0b\">0ad229e</a>\n- <a href=\"https://github.com/schaternik/adventofcode/commit/00ec0d8bb8d49d94176d60fcb4b9d3bc70ea42ba\">00ec0d8</a>\n- <a href=\"https://github.com/schaternik/dotfiles/commit/b1f693c0f546a406bb0a6f030c56de2974da50c2\">b1f693c</a>\n- <a href=\"https://github.com/schaternik/key-value-store/commit/1de132b3ffa2334e3ca095af2b8ef80343e21852\">1de132b</a>\n- <a href=\"https://github.com/schaternik/key-value-store/commit/bded039779a6ca3d7227bda661abe182d90c150e\">bded039</a>\n- <a href=\"https://github.com/schaternik/key-value-store/commit/692523c668e4efb23a69b700395fae9f5867dd9a\">692523c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/schaternik/schaternik/commit/4f4ee00ceb06eaf55ae318503965db0c9e1e8d2d\">4f4ee00</a>\n- <a href=\"https://github.com/schaternik/adventofcode/commit/0ad229e420a79b30234ff4d70181b6a6e1278a0b\">0ad229e</a>\n- <a href=\"https://github.com/schaternik/adventofcode/commit/00ec0d8bb8d49d94176d60fcb4b9d3bc70ea42ba\">00ec0d8</a>\n- <a href=\"https://github.com/schaternik/dotfiles/commit/b1f693c0f546a406bb0a6f030c56de2974da50c2\">b1f693c</a>\n- <a href=\"https://github.com/schaternik/key-value-store/commit/1de132b3ffa2334e3ca095af2b8ef80343e21852\">1de132b</a>\n- <a href=\"https://github.com/schaternik/key-value-store/commit/bded039779a6ca3d7227bda661abe182d90c150e\">bded039</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
   }
 ]
