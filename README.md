@@ -1,7 +1,13 @@
-### Hi there 👋
+## Hi there ✌️
 
 I'm a Software Engineer located in Berlin, Germany.
 I'm happy to chat about engineering and beyond. Please send me your inquiries via [e-mail](mailto:schaternik+gh@gmail.com).
+
+### Other contact channels
+
+- [LinkedIn](https://www.linkedin.com/in/schaternik/)
+
+### Brag Shelf
 
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
